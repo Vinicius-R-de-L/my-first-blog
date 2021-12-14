@@ -6,3 +6,4 @@ db.sqlite3
 /static
 .DS_Store
 anotacoesDjangoGirls.txt
+local_settings.py
